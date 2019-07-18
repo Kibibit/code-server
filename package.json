@@ -1,6 +1,6 @@
 {
-  "name": "@coder/code-server",
-  "repository": "https://github.com/cdr/code-server",
+  "name": "@kibibit/code-server",
+  "repository": "https://github.com/kibibit/code-server",
   "author": "Coder",
   "license": "MIT",
   "description": "Run VS Code remotely.",
