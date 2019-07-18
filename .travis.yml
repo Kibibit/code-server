@@ -41,7 +41,7 @@ deploy:
     - release/*.tar.gz
     - release/*.zip
   on:
-    repo: cdr/code-server
+    repo: kibibit/code-server
     branch: master
 cache:
   yarn: true
